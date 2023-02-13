@@ -1,6 +1,4 @@
----
-title: Welcome to My Blog toots
----
+
 # This is going to get better and better
 
 <ul>
@@ -11,4 +9,4 @@ title: Welcome to My Blog toots
 
   
   </ul>
-Joe Malone<founder_joe@getjoemalone.com>
+
